@@ -17,6 +17,7 @@ a. Admin
 
 b. Member
 
+
 👤 Member Management
 
 Register new members
@@ -28,6 +29,7 @@ Assign gym packages
 View and manage member data
 
 Secure login and logout
+
 
 📦 Package Management
 
@@ -48,6 +50,7 @@ Store payment records in database
 
 Display payment confirmation
 
+
 🧾 Admin Controls
 
 View all registered members
@@ -60,11 +63,13 @@ Access admin dashboard
 
 Logout from system
 
+
 👥 User Roles & Permissions
 
 Admin: Full system access and member management
 
 Member: Register, login, make payment, and access personal dashboard
+
 
 🗃️ Database Structure
 
@@ -80,6 +85,7 @@ Payment
 
 Relationships are implemented using primary keys and foreign keys to ensure data integrity and avoid data redundancy.
 
+
 🛠️ Technologies Used
 
 Programming Language: C#
@@ -89,6 +95,7 @@ Framework: .NET Framework (Windows Forms)
 Database: SQL Server LocalDB
 
 IDE: Visual Studio 2019
+
 
 ⚙️ Installation & Setup
 
@@ -104,6 +111,7 @@ AttachDbFilename=|DataDirectory|\dbGYM.mdf;
 
 Build and run the project
 
+
 ▶️ How to Use
 
 Launch the application
@@ -118,6 +126,7 @@ Admin can manage members from admin panel
 
 Logout safely after use
 
+
 📄 UML Diagrams Included
 
 Use Case Diagram
@@ -125,8 +134,8 @@ Activity Diagram
 
 ER Diagram
 
-
 These diagrams explain system behavior, workflow, and database structure.
+
 
 🎓 Purpose of the Project
 
@@ -141,11 +150,13 @@ Role-based access control
 
 Real-world desktop application design
 
+
 📌 Author
 
 Md. Nawshad Hossain
 
 GYM Management System
+
 
 ✅ License
 
