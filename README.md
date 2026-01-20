@@ -15,10 +15,10 @@ User roles:
 
 a. Admin
 
-b. Member
+b. User
 
 
-👤 Member Management
+👤 User Management
 
 Register new members
 
@@ -77,7 +77,7 @@ The project uses SQL Server LocalDB with the following main tables:
 
 Admin
 
-Members
+Users
 
 Package
 
