@@ -3,6 +3,7 @@
 
 The GYM Management System is a desktop-based application developed using C# Windows Forms and SQL Server (LocalDB) in Visual Studio 2019. The system is designed to manage daily gym operations such as member registration, login, package selection, payment processing, and member management with role-based access control. This project aims to reduce manual work, improve data accuracy, and provide an efficient way to manage gym members and activities.
 
+
 ✨ Features
 
 🔐 Authentication & Authorization
@@ -18,6 +19,7 @@ a. Admin
 b. User
 
 
+
 👤 User Management
 
 Register new members
@@ -31,6 +33,7 @@ View and manage member data
 Secure login and logout
 
 
+
 📦 Package Management
 
 Assign packages during registration
@@ -38,6 +41,7 @@ Assign packages during registration
 Manage package information
 
 Package-based access to gym services
+
 
 
 💳 Payment Management
@@ -49,6 +53,7 @@ Payment verification process
 Store payment records in database
 
 Display payment confirmation
+
 
 
 🧾 Admin Controls
@@ -64,11 +69,13 @@ Access admin dashboard
 Logout from system
 
 
+
 👥 User Roles & Permissions
 
 Admin: Full system access and member management
 
 Member: Register, login, make payment, and access personal dashboard
+
 
 
 🗃️ Database Structure
@@ -86,6 +93,7 @@ Payment
 Relationships are implemented using primary keys and foreign keys to ensure data integrity and avoid data redundancy.
 
 
+
 🛠️ Technologies Used
 
 Programming Language: C#
@@ -95,6 +103,7 @@ Framework: .NET Framework (Windows Forms)
 Database: SQL Server LocalDB
 
 IDE: Visual Studio 2019
+
 
 
 ⚙️ Installation & Setup
@@ -112,6 +121,7 @@ AttachDbFilename=|DataDirectory|\dbGYM.mdf;
 Build and run the project
 
 
+
 ▶️ How to Use
 
 Launch the application
@@ -127,6 +137,7 @@ Admin can manage members from admin panel
 Logout safely after use
 
 
+
 📄 UML Diagrams Included
 
 Use Case Diagram
@@ -135,6 +146,7 @@ Activity Diagram
 ER Diagram
 
 These diagrams explain system behavior, workflow, and database structure.
+
 
 
 🎓 Purpose of the Project
@@ -149,6 +161,7 @@ CRUD operations
 Role-based access control
 
 Real-world desktop application design
+
 
 
 📌 Author
